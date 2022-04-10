@@ -1,4 +1,4 @@
-package es.bbs.basics;
+package es.bbs.basics.localDate;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
@@ -10,7 +10,7 @@ import java.time.temporal.ChronoField;
  * <p>
  * Se trata de implementaciones que incluyen clases para manejar fechas o intervalos simples
  */
-public class IntroductionSnippet {
+public class LocalDateSnippet {
 
     /**
      * LocalDate representa un objeto inmutable de una fecha plana sin horas
